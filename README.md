@@ -16,3 +16,6 @@ The dependencies for this project are listed as all the packages imported into P
 
 ## Usage
 Use this script by running `python greenscreenMain.py` from the command line, or by running one of the shortcuts created onthe Mobile Pi's desktop.
+
+## Forked?
+I forked the repo in case the orginal gets deleted.  In particular I know the "Greenscreen" Asana task was recently removed, which has inspired me to back up this work, in case it can serve as reference for at least some of my early work.
